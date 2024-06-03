@@ -1,0 +1,1 @@
+To actually use the mod drag it into your minecraft mods folder.  You get there by useing the combination "win" + "r" on your keyboard then type out "%appdata%", click ".minecraft" and you shpule be able to see your mods folder. Forge or any other Client like Feather is required as well as Minecraft version 1.8.9 . Have fun!
